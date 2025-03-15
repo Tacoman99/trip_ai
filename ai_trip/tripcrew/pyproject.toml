@@ -1,0 +1,23 @@
+[project]
+name = "tripcrew"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "agentops>=0.4.3",
+    "chainlit>=2.4.1",
+    "config>=0.5.1",
+    "crewai>=0.105.0",
+    "crewai-tools>=0.38.0",
+    "databricks-sdk>=0.46.0",
+    "google-generativeai>=0.8.4",
+    "google-maps-routeoptimization>=0.1.8",
+    "googlemaps>=4.10.0",
+    "loguru>=0.7.3",
+    "pydantic>=2.10.6",
+    "pydantic-settings>=2.8.1",
+    "pyyaml>=6.0.2",
+    "regex>=2024.11.6",
+    "requests>=2.32.3",
+]

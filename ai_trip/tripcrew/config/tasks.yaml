@@ -1,0 +1,108 @@
+gather_task:
+  description: >
+    As a local expert on this city you must compile an 
+    in-depth guide for someone traveling there and wanting 
+    to have THE BEST trip ever!
+    Gather information about  key attractions, local customs,
+    special events, and daily activity recommendations.
+    Find the best spots to go to, the kind of place only a
+    local would know.
+    
+    This should be a list of places to go to, the area has to offer, including hidden gems, 
+    cultural hotspots, must-visit landmarks, restaurants, etc.
+    If you find a well known neighborhood or area, provided
+    a list of places to go to in that area
+
+    The final answer must be a comprehensive city guide list, 
+    rich in cultural insights and practical tips, 
+    tailored to the traveler interests to enhance the travel experience.
+
+    For your research look for places online and find more infomation about them serperdevtool to search the web
+    then scrape the website with the scrapewesitetool to get the information you need to find the best places to visit 
+
+    If there are any errors  document them clearly
+    and retry the failed operation if possible.
+
+    Travelers input:{travelers_input}
+  expected_output: >
+    Should return a pydantic model of a list of places to visit in a dictionary format
+    [ city_name : < Name of the city >,
+        places_to_visit: [
+        [
+        place_name: < Name of the place >,
+        place_type: < Category of the place  i.e. restaurant, landmark, activity, etc. >,
+        place_description: < Markdown formatted description of the place >,
+        place_reason: < Markdown formatted reason for the recommendation >
+        ]
+    ]
+
+reviews_task:
+  description: >
+    You will receive a list of places to visit from the 'reviews_task' and a traveler profile as inputs, structured as a dictionary with the following keys:
+    - `city_name` (str): Name of the city.
+    - `places_to_visit` (list): A curated list of attractions, landmarks, or activities in the city.
+
+    your goal is to use the google places tool to find the reviews for the places to visit then analyze the reviews and give a summary of the reviews
+    and the overall sentiment of the reviews. You will add columns to the places_to_visit list for each place with the following information:
+    geocode: < Geocodes for the place >
+    place_sentiment: < Overall sentiment of the reviews >
+    place_summary: < Summary of the reviews >
+    place_latitude: < Latitude of the place >
+    place_longitude: < Longitude of the place >
+  expected_output: >
+    Should return a pydantic model of a list of places to visit in a dictionary format
+    [ city_name : < Name of the city >,
+        places_to_visit: [
+        [
+        place_name: < Name of the place >,
+        place_type: < Category of the place  i.e. restaurant, landmark, activity, etc. >,
+        place_description: < Markdown formatted description of the place >,
+        place_reason: < Markdown formatted reason for the recommendation >
+        geocode: < Geocodes for the place >
+        place_sentiment: < Overall sentiment of the reviews >
+        place_summary: < Summary of the reviews >
+        place_latitude: < Latitude of the place >
+        place_longitude: < Longitude of the place >
+        ]
+    ]
+
+plan_task:
+  description: >
+
+    You will receive a city guide from the 'gather_task' and a traveler profile as inputs, structured as a dictionary with the following keys:  
+    - `city_name` (str): Name of the city.  
+    - `places_to_visit` (list): A curated list of attractions, landmarks, or activities in the city.  
+
+    Using the information provided, create a **detailed travel itinerary** for the specified date range, tailored to the travelers
+    interests. Your itinerary should include:  
+    1. **Daily Breakdown:** Organize activities by day, specifying the time for each.  
+    2. **Activities and Visits:** Suggest the best times to visit each location, including detailed descriptions of what to do.  
+    3. **Dining Suggestions:** Recommend restaurants or cafes near each activity, considering cuisine preferences and traveler interests.  
+    4. **Weather Forecasts:** Incorporate a realistic weather outlook for each day, highlighting any adjustments needed (e.g., "bring a 
+    raincoat for light showers").  
+    5. **Packing Tips:** Provide practical packing suggestions based on the itinerary and weather conditions.  
+    6. **Budget Breakdown:** Estimate costs for meals, activities, transportation, and other expenses, ensuring a clear total for the 
+    trip.  
+    Make this itinerary the best possible travel experience! Use vibrant descriptions, helpful tips, and creative ideas to make the trip 
+    unforgettable for the traveler.  
+
+    Itinerary Format Example:  
+    - Day 1: Exploring San Francisco  
+      - 7:00 AM – 8:30 AM:  
+        Start with breakfast at Mama’s on Washington Square, famous for its omelets and French toast.  
+
+      - 8:30 AM – 10:30 AM:  
+        Visit Alcatraz Island. Take the ferry from Pier 33 and enjoy an audio-guided tour of the historic prison.  
+
+      - 10:30 AM – 12:00 PM:  
+        Stroll along Fisherman’s Wharf to enjoy the vibrant atmosphere, sea lions at Pier 39, and a stop at Ghirardelli Square for dessert.  
+
+        ... (continue for the rest of the day with similar detail).  
+
+    Focus on delivering a vibrant, engaging, and personalized itinerary while meeting all traveler expectations.
+
+    Travelers input:{travelers_input}
+  expected_output: >
+    A detailed travel itinerary in markdown format that 
+    includes attractions, local customs, events, and 
+    recommendations.
