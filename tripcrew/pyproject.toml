@@ -1,0 +1,24 @@
+[project]
+name = "tripcrew"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "loguru<1.0.0,>=0.7.2",
+    "pyyaml<7.0.0,>=6.0.2",
+    "googlemaps<5.0.0,>=4.10.0",
+    "requests<3.0.0,>=2.32.3",
+    "google-generativeai<1.0.0,>=0.8.4",
+    "google-maps-routeoptimization>=0.1.7",
+    "regex>=2024.11.6",
+    "chainlit>=2.4.0",
+    "pydantic-settings>=2.8.1",
+    "markdown-pdf>=1.5",
+    "crewai>=0.108.0",
+    "crewai-tools>=0.38.1",
+    "pydantic>=2.10.6",
+    "plotly>=6.0.1",
+    "kaleido==0.2.1",
+    "pypdf>=5.4.0",
+]

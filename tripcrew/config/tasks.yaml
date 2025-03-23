@@ -66,15 +66,19 @@ reviews_task:
         ]
     ]
 
+
+
 plan_task:
   description: >
 
-    You will receive a city guide from the 'gather_task' and a traveler profile as inputs, structured as a dictionary with the following keys:  
-    - `city_name` (str): Name of the city.  
-    - `places_to_visit` (list): A curated list of attractions, landmarks, or activities in the city.  
+    ResearchCrew output:{crew_output}
+
+    You will receive a list of places to visit from the ResearchCrew, traveler profile as inputs,
 
     Using the information provided, create a **detailed travel itinerary** for the specified date range, tailored to the travelers
     interests. Your itinerary should include:  
+
+    - A detailed overview of the city, culture, history, list the places from the ResearchCrew output and other relevant information.
     1. **Daily Breakdown:** Organize activities by day, specifying the time for each.  
     2. **Activities and Visits:** Suggest the best times to visit each location, including detailed descriptions of what to do.  
     3. **Dining Suggestions:** Recommend restaurants or cafes near each activity, considering cuisine preferences and traveler interests.  
@@ -87,6 +91,29 @@ plan_task:
     unforgettable for the traveler.  
 
     Itinerary Format Example:  
+
+    San Francisco: A Vibrant City of Culture, History, and Innovation
+
+    OVERVIEW:
+    San Francisco, a city known for its iconic landmarks, diverse neighborhoods, and 
+    innovative spirit, is a must-visit destination for travelers. Nestled along the Northern California coast, 
+    this vibrant metropolis is famous for the Golden Gate Bridge, Alcatraz Island, and its historic cable cars. 
+    Visitors can explore charming districts such as Chinatown, the Mission, and Haight-Ashbury, each offering 
+    unique cultural experiences and culinary delights. The city's breathtaking waterfront, rolling hills, and 
+    nearby wine country make it a paradise for nature lovers and food enthusiasts alike. Whether you're here for 
+    the arts, tech innovation, or simply to soak in the stunning views, San Francisco offers an unforgettable 
+    experience for every traveler.
+
+    Places to visit:
+    - Golden Gate Bridge (Landmark: * Beautiful bridge that spans the San Francisco Bay *)
+    - Alcatraz Island (Landmark: * Historic prison island that offers a unique tour experience *)
+    - Fisherman’s Wharf (Landmark: * Popular waterfront area with shops, restaurants, and attractions *)
+    - Ghirardelli Square (Landmark: * Iconic chocolate factory and square with shops and cafes *)
+    - Chinatown (Landmark: * Largest Chinatown outside of Asia with a vibrant atmosphere and delicious food *)
+    - Mission (Landmark: * Vibrant neighborhood known for its murals and street art *)
+
+
+    Itinerary:
     - Day 1: Exploring San Francisco  
       - 7:00 AM – 8:30 AM:  
         Start with breakfast at Mama’s on Washington Square, famous for its omelets and French toast.  
@@ -102,7 +129,8 @@ plan_task:
     Focus on delivering a vibrant, engaging, and personalized itinerary while meeting all traveler expectations.
 
     Travelers input:{travelers_input}
+    DO NOT PUT  ```markdown``` in the generated markdown file.
   expected_output: >
-    A detailed travel itinerary in markdown format that 
-    includes attractions, local customs, events, and 
-    recommendations.
+    A single Markdown-formatted string containing all the itinerary for the traveler.
+    Must be structured and formatted in a way that is easy to read and understand.
+    and ready to be translated to a PDF format.
