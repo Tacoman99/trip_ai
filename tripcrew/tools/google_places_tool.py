@@ -16,7 +16,7 @@ class google_places_input(BaseModel):
         50000,
         description="radius in meters to search for places using google places api",
     )
-    # area: str = Field(..., description="area to search for places using google places api e.g. San Diego, CA ")
+    #area: str = Field(..., description="area to search for places using google places api e.g. San Diego, CA ")
 
 
 class GooglePlacesTool(BaseTool):
@@ -30,7 +30,7 @@ class GooglePlacesTool(BaseTool):
         self,
         query: str,
         radius: int,
-        # area: str,
+        #area: str,
     ) -> pd.DataFrame:
         # Initialize GooglePlaces with the provided argument
         google_places = GooglePlaces(
@@ -53,3 +53,8 @@ class GooglePlacesTool(BaseTool):
 # TODO: create this tool fully so the agent can use it to find places for the trip
 #       - Ensuring the agent can do queries " Mexican restuarants", "Italian restaurants","Musuems in the area" etc
 #       - check for the struct array type for compression or flat structure
+
+if __name__ == "__main__":
+    google_places_tool = GooglePlacesTool()
+    df = google_places_tool.run(query="Mexican restaurants in San Diego", radius=5000)
+    print(df)

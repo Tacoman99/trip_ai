@@ -29,9 +29,8 @@ class GooglePlaces:
         self.details_url = "https://maps.googleapis.com/maps/api/place/details/json"
 
         gmaps = googlemaps.Client(key=self.API_KEY)
-        geocode_result = gmaps.geocode(self.area)
-        self.location = f"{geocode_result[0]['geometry']['location']['lat']}, {geocode_result[0]['geometry']['location']['lng']}"
-        self.location = f"{geocode_result[0]['geometry']['location']['lat']}, {geocode_result[0]['geometry']['location']['lng']}"
+       # geocode_result = gmaps.geocode(self.area)
+        #self.location = f"{geocode_result[0]['geometry']['location']['lat']}, {geocode_result[0]['geometry']['location']['lng']}"
 
     def _get_place_details(self, place_id):
         """Get place details from Google Places API
@@ -71,7 +70,8 @@ class GooglePlaces:
         data = []
         reviews = []
         params = {
-            'location': self.location,
+            #
+            # 'location': self.location,
             "radius": self.radius,
             "query": self.query,
             "key": self.API_KEY,
@@ -123,14 +123,16 @@ class GooglePlaces:
         df_reviews = pd.DataFrame(reviews)
         #merged_df = pd.merge(df_places, df_reviews, on='place_id', how='left')
 
-        df_places.to_csv(f"{'data'}_reviews.csv", index=False)
+        df_places.to_csv(f"data/{'data'}_reviews.csv", index=False)
 
         return df_places
 
 
 if __name__ == "__main__":
     google_places = GooglePlaces(
-        area="San Diego, CA", query="Mike's Taco Club", radius=5000
+        #area="San Diego, CA",
+        query="Mexican restaurants in San Diego", 
+        radius=5000
     )
     merged_df = google_places.fetch_places()
     print(merged_df)

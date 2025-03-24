@@ -134,7 +134,6 @@ class PlanCrew:
         itinerary_agent = Agent(
             llm=self.llm,
             config=self.agents_config["itinerary_agent"],
-            tools=[GooglePlacesTool()],
         )
 
         itinerary_task = Task(

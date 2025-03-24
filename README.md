@@ -1,6 +1,9 @@
 # Personalized Route Optimization with Crewai
 
 This repository demonstrates how to build personalized travel plans using the CrewAI framework, utilizing AI agents that collaboratively generate tailored and efficient travel itineraries, with Chainlit managing the frontend interface. It specifically showcases the implementation of CrewAI Flows, illustrating how structured, event driven workflows enable the seamless chaining of multiple Crews and tasks. Through effective state management and flexible control flow, including conditional logic and branching, this project exemplifies creating sophisticated, dynamic AI workflows for personalized travel planning.
+
+https://www.youtube.com/watch?v=Q7yvvq-9ytE
+
 ## Requirements
 
 - Google API Key: [Get your Google API key](https://console.cloud.google.com/apis/credentials)  
@@ -11,7 +14,7 @@ This repository demonstrates how to build personalized travel plans using the Cr
 1. Clone the repository.
 2. Navigate to the project directory:
    ```bash
-   cd src/tripcrew
+   cd tripcrew
    ```
 
 ## Installation and Configuration

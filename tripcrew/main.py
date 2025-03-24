@@ -8,6 +8,11 @@ from pydantic import BaseModel
 from pypdf import PdfWriter
 
 
+
+os.environ["SERPER_API_KEY"] = settings.serper_api_key
+
+
+
 class TripState(BaseModel):
     # Note: 'id' field is automatically added to all states
     place_data: dict = {}
@@ -119,5 +124,7 @@ if __name__ == "__main__":
 
     flow = TripFlow(travelers_input="I want to go to San Diego, CA for 5 days")
     result = flow.kickoff()
+    flow.plot("my_flow_plot")
+
 
     logger.info(result)
