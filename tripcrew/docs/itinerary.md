@@ -1,151 +1,116 @@
-```markdown
-# New York City: A Culinary, Sporting, and Natural Adventure
+# New York City: A Culinary, Sporting, and Outdoor Adventure
 
-## OVERVIEW:
-New York City, a global hub of culture, history, and innovation, offers an unparalleled experience for every traveler. From iconic landmarks like the Statue of Liberty and Times Square to diverse neighborhoods brimming with character, NYC is a city of endless possibilities. Explore world-class museums, indulge in diverse culinary delights, catch a Broadway show, or simply wander through Central Park. This itinerary focuses on your love for dining, baseball, and trails, ensuring an unforgettable 5-day adventure.
+## OVERVIEW
+
+New York City, a global hub of culture, cuisine, and iconic landmarks, offers an unparalleled experience for every traveler. From world-class restaurants and thrilling baseball games to serene trails and vibrant neighborhoods, NYC has something for everyone. This itinerary focuses on your love for dining out, baseball, and exploring trails, ensuring an unforgettable 5-day adventure in the Big Apple.
 
 **Places to visit:**
-*   **Yuka Restaurant:** All-you-can-eat sushi restaurant with high-quality fish.
-*   **Jeffrey's Grocery:** Excellent seafood restaurant in the West Village with oyster happy hour.
-*   **Miss Korea BBQ:** Authentic Korean BBQ experience.
-*   **SriPraPhai Thai Restaurant:** Known as the most authentic Thai restaurant in NYC.
-*   **Russ & Daughters:** Best breakfast and brunch spot in NYC.
-*   **Yankee Stadium:** Home of the New York Yankees.
-*   **Citi Field:** Home of the New York Mets.
-*   **Central Park Trails:** Trails for walking, running, and hiking.
-*   **Inwood Hill Park:** Hiking trails and natural scenery in upper Manhattan.
 
-## Itinerary:
+*   **Tatiana by Kwame Onwuachi** (Restaurant): Afro-Caribbean-influenced menu with standouts like short rib pastrami. Upscale dining experience.
+*   **Gage & Tollner** (Restaurant): Revived Old New York emblem with a beautiful landmarked interior. Serves steaks, chops, seafood towers, and fried chicken. Cocktail club upstairs.
+*   **Gramercy Tavern** (Restaurant): NYC classic with a big night out atmosphere. Offers a five-course tasting menu and à la carte options in the tavern section.
+*   **Rezdôra** (Restaurant): New York City's best Italian restaurant. Offers a regional pasta tasting menu.
+*   **Yankee Stadium** (Activity): Home of the New York Yankees. Offers classic stadium food, passionate fans, and the chance to see some of the best players in baseball. Visit the New York Yankees Museum.
+*   **Citi Field** (Activity): Home of the New York Mets. Take a guided tour of the home of the New York Mets, including access to behind-the-scenes spots like the dugout and press box. Don’t miss the Mets Hall of Fame and Museum, where you can learn about the team’s history.
+*   **Central Park East and West Drive Loop** (Trail): A beautiful trail takes you through the famous Central Park in the heart of Manhattan. The park is a tourist attraction and is popular among hikers, walkers, and runners.
+*   **Brooklyn Bridge Walk via Manhattan** (Trail): Fun and scenic walk from Manhattan to Brooklyn across one of the country's most famous bridges. Drink vendors line the bridge, which can be helpful in warm, humid weather.
+*   **High Line Park** (Trail): An awesome elevated rail track transformed to park in Manhattan. Offers wildflowers, greenery, and outdoor art installations.
 
-### Day 1: Arrival and Midtown Delights
+## Itinerary
 
-*   **Morning (9:00 AM):**
-    *   Arrive at your accommodation in Midtown Manhattan. Check in and leave your luggage.
-*   **Late Morning (11:00 AM):**
-    *   Head to **Russ & Daughters** (127 Orchard St) for a quintessential New York brunch. Try their famous latkes, lox plates, or world-class cream cheese.
-    *   *Reason:* Considered the best breakfast and brunch spot in the city.
-    *   *Budget:* $25-40
-*   **Afternoon (1:00 PM):**
-    *   Explore **Central Park Trails**. Start near the south entrance and choose a trail for a relaxing walk. Consider the Hallett Nature Sanctuary for a quieter experience.
-    *   *Reason:* Perfect for a relaxing walk in the heart of the city.
-    *   *Budget:* Free
-*   **Late Afternoon (4:00 PM):**
-    *   Visit **Yankee Stadium** (1 E 161st St, Bronx) for a tour. Explore Monument Park and the New York Yankees Museum.
-    *   *Reason:* Must-visit for baseball fans.
-    *   *Budget:* $25-35
-*   **Evening (7:00 PM):**
-    *   Dinner at **Miss Korea BBQ** (10 E 32nd St). Enjoy an authentic Korean BBQ experience with delicious meat and various sides.
-    *   *Reason:* Highly recommended for its authentic Korean BBQ.
-    *   *Budget:* $40-60
-*   **Night (9:00 PM):**
-    *   Enjoy a leisurely walk through Times Square.
-    *   *Budget:* Free
+### Day 1: Culinary Delights in Manhattan
 
-### Day 2: Downtown Exploration and Seafood
+*   **Weather:** Sunny, with a high of 75°F (24°C).
+*   **Morning (9:00 AM – 11:00 AM):** Start your day with a delightful brunch at **Gramercy Tavern** (42 E 20th St). Enjoy their à la carte options in the tavern section for a casual yet upscale experience.
+    *   **Budget:** \$40
+*   **Afternoon (12:00 PM – 2:00 PM):** Explore **High Line Park**. Take a leisurely walk along this elevated park, enjoying the wildflowers, greenery, and outdoor art installations.
+    *   **Budget:** Free
+*   **Lunch (2:30 PM – 3:30 PM):** Grab a quick and tasty lunch near the High Line at **Chelsea Market** (75 9th Ave). This indoor market offers a variety of food vendors.
+    *   **Budget:** \$30
+*   **Evening (7:00 PM – 9:00 PM):** Indulge in an exquisite dinner at **Tatiana by Kwame Onwuachi** (Lincoln Center, 10 Lincoln Center Plaza). Experience the Afro-Caribbean-influenced menu.
+    *   **Budget:** \$100
+*   **Night (9:30 PM onwards):** Enjoy a nightcap at a nearby bar.
+    *   **Budget:** \$30
+*   **Total Day 1 Estimated Budget:** \$200
 
-*   **Morning (9:00 AM):**
-    *   Breakfast at a local café near your accommodation.
-    *   *Budget:* $15-25
-*   **Late Morning (10:30 AM):**
-    *   Explore the Financial District and visit the 9/11 Memorial & Museum.
-    *   *Budget:* $30-40
-*   **Lunch (1:00 PM):**
-    *   Head to the West Village and dine at **Jeffrey's Grocery** (172 Waverly Pl). Enjoy oysters and seafood. Take advantage of the $1.50 oyster happy hour if the time aligns!
-    *   *Reason:* Known for its excellent seafood and oyster happy hour.
-    *   *Budget:* $35-55
-*   **Afternoon (3:00 PM):**
-    *   Walk the Brooklyn Bridge for stunning views of the Manhattan skyline.
-    *   *Budget:* Free
-*   **Late Afternoon (5:00 PM):**
-    *   Explore DUMBO in Brooklyn, known for its cobblestone streets and art galleries.
-    *   *Budget:* Free (unless you decide to buy something)
-*   **Evening (7:30 PM):**
-    *   Dinner in Little Italy. Lombardi's Pizza (32 Spring St) is a great option for classic New York pizza.
-    *   *Budget:* $30-45
+### Day 2: Baseball Fever and Brooklyn Exploration
 
-### Day 3: Queens Culinary Adventure
+*   **Weather:** Partly cloudy, with a high of 78°F (26°C).
+*   **Morning (10:00 AM – 12:00 PM):** Take the subway to the Bronx and visit **Yankee Stadium** (1 E 161st St). Take a tour of the stadium and explore the New York Yankees Museum.
+    *   **Budget:** \$40
+*   **Lunch (12:30 PM – 1:30 PM):** Enjoy a classic stadium lunch at Yankee Stadium.
+    *   **Budget:** \$25
+*   **Afternoon (2:00 PM – 3:00 PM):** Watch the Yankees play a game.
+    *   **Budget:** \$50 - \$150 depending on the seats.
+*   **Travel (5:00 PM - 6:00 PM):** Head to Brooklyn via subway.
+*   **Evening (6:30 PM – 8:30 PM):** Dine at **Gage & Tollner** (372 Fulton St, Brooklyn). Relish the ambiance and enjoy steaks, chops, seafood towers, or fried chicken.
+    *   **Budget:** \$80
+*   **Night (9:00 PM – 10:00 PM):** Walk around downtown Brooklyn.
+    *   **Budget:** Free
+*   **Total Day 2 Estimated Budget:** \$195 - \$295
 
-*   **Morning (9:00 AM):**
-    *   Breakfast at your accommodation or a nearby cafe.
-    *   *Budget:* $15-25
-*   **Late Morning (11:00 AM):**
-    *   Travel to Queens via the subway (take the 7 train).
-    *   *Budget:* Subway fare ($2.75)
-*   **Lunch (12:30 PM):**
-    *   Lunch at **SriPraPhai Thai Restaurant** (39-69 61st St, Woodside). Experience authentic Thai cuisine. Be prepared for spice!
-    *   *Reason:* Known as the best and most authentic Thai restaurant in New York City.
-    *   *Budget:* $25-40
-*   **Afternoon (2:30 PM):**
-    *   Explore Flushing Meadows Corona Park, home to the Unisphere and the Queens Museum.
-    *   *Budget:* Free (museum entry may have a fee)
-*   **Late Afternoon (5:00 PM):**
-    *   If the Mets are playing at home, go to **Citi Field** (123-01 Roosevelt Ave) to catch a game. If not, consider a stadium tour.
-    *   *Reason:* Great for baseball fans.
-    *   *Budget:* $30-100+ depending on the game/tour
-*   **Evening (8:00 PM):**
-    *   Dinner in Jackson Heights, known for its diverse South Asian cuisine. Try some street food or find a highly-rated restaurant.
-    *   *Budget:* $20-35
+### Day 3: Italian Feast and Central Park Serenity
 
-### Day 4: Upper Manhattan and Sushi
+*   **Weather:** Light showers, with a high of 70°F (21°C). *Bring a raincoat or umbrella.*
+*   **Morning (9:00 AM – 10:00 AM):** Grab a quick breakfast at a local café near your accommodation.
+    *   **Budget:** \$20
+*   **Late Morning (11:00 AM – 1:00 PM):** Immerse yourself in the beauty of **Central Park East and West Drive Loop**. Enjoy a walk, jog, or bike ride through this iconic park.
+    *   **Budget:** Bike rental \$20 (optional)
+*   **Lunch (1:30 PM – 2:30 PM):** Have a picnic lunch in Central Park. Grab some sandwiches and snacks from a nearby deli.
+    *   **Budget:** \$30
+*   **Afternoon (3:00 PM – 6:00 PM):** Explore more of Central Park. Visit the Bethesda Terrace, Strawberry Fields, and the Central Park Zoo.
+    *   **Budget:** Zoo entry \$20 (optional)
+*   **Evening (7:30 PM – 9:30 PM):** Treat yourself to an authentic Italian dinner at **Rezdôra** (27 E 20th St). Savor their regional pasta tasting menu.
+    *   **Budget:** \$120
+*   **Night (10:00 PM onwards):** Relax at a jazz bar in Greenwich Village.
+    *   **Budget:** \$40
+*   **Total Day 3 Estimated Budget:** \$230 - \$270
 
-*   **Morning (9:00 AM):**
-    *   Breakfast at a local deli.
-    *   *Budget:* $10-20
-*   **Late Morning (10:30 AM):**
-    *   Travel to the northern tip of Manhattan and explore **Inwood Hill Park**. Enjoy hiking trails and natural scenery.
-    *   *Reason:* A great option for those seeking a more rugged hiking experience within the city.
-    *   *Budget:* Free
-*   **Lunch (1:00 PM):**
-    *   Picnic lunch in Inwood Hill Park. Pack some sandwiches and snacks.
-    *   *Budget:* $15-25
-*   **Afternoon (3:00 PM):**
-    *   Visit The Cloisters, a branch of the Metropolitan Museum of Art dedicated to medieval art and architecture.
-    *   *Budget:* $30 (suggested donation)
-*   **Evening (6:30 PM):**
-    *   Dinner at **Yuka Restaurant** (1557 2nd Ave). Enjoy all-you-can-eat sushi.
-    *   *Reason:* Recommended by locals for its great value and quality sushi.
-    *   *Budget:* $35-50
-*   **Night (8:30 PM):**
-    *   Enjoy a relaxing evening in your accommodation.
+### Day 4: Mets Game and Historic Bridge Walk
 
-### Day 5: Departure
+*   **Weather:** Sunny, with a high of 80°F (27°C).
+*   **Morning (10:00 AM – 12:00 PM):** Travel to Queens and visit **Citi Field** (41 Seaver Way, Queens). Take a guided tour of the stadium, including the dugout and press box. Explore the Mets Hall of Fame and Museum.
+    *   **Budget:** \$40
+*   **Lunch (12:30 PM – 1:30 PM):** Enjoy a meal at the Citi Field.
+    *   **Budget:** \$25
+*   **Afternoon (2:00 PM – 5:00 PM):** Watch the Mets play a baseball game.
+    *   **Budget:** \$50 - \$150
+*   **Evening (6:00 PM - 7:00 PM):** Travel back to Manhattan via subway.
+*   **Dinner (7:30 PM – 8:30 PM):** Have dinner at a restaurant of your choosing near your accommodation.
+    *   **Budget:** \$50
+*   **Night (9:00 PM onwards):** Take a relaxing stroll through Times Square.
+    *   **Budget:** Free
+*   **Total Day 4 Estimated Budget:** \$165 - \$265
 
-*   **Morning (9:00 AM):**
-    *   Enjoy a final New York breakfast at a café near your accommodation.
-    *   *Budget:* $15-25
-*   **Late Morning (10:30 AM):**
-    *   Last-minute souvenir shopping or visit a museum you missed.
-    *   *Budget:* Variable
-*   **Lunch (1:00 PM):**
-    *   Grab a quick lunch before heading to the airport.
-    *   *Budget:* $15-25
-*   **Afternoon (3:00 PM):**
-    *   Travel to the airport for your departure.
+### Day 5: Brooklyn Bridge and Departure
 
-## Weather Forecasts:
+*   **Weather:** Partly cloudy, with a high of 77°F (25°C).
+*   **Morning (9:00 AM – 10:00 AM):** Have breakfast at a local café.
+    *   **Budget:** \$20
+*   **Late Morning (10:30 AM – 1:00 PM):** Embark on the **Brooklyn Bridge Walk via Manhattan**. Enjoy the scenic views and iconic experience.
+    *   **Budget:** Free
+*   **Lunch (1:30 PM – 2:30 PM):** Enjoy lunch at a restaurant in DUMBO, Brooklyn.
+    *   **Budget:** \$35
+*   **Afternoon (3:00 PM – 4:00 PM):** Do some souvenir shopping in the area.
+    *   **Budget:** \$50
+*   **Evening:** Head to the airport for your departure.
+    *   **Budget:** \$50 (Transportation)
+*   **Total Day 5 Estimated Budget:** \$155
 
-*   **Day 1:** Sunny with a high of 75°F.
-*   **Day 2:** Partly cloudy with a high of 78°F.
-*   **Day 3:** Chance of rain in the afternoon, high of 72°F. *Bring a light raincoat or umbrella.*
-*   **Day 4:** Mostly sunny, high of 70°F.
-*   **Day 5:** Sunny, high of 76°F.
+## Packing Tips
 
-## Packing Tips:
+*   **Clothing:** Comfortable walking shoes, layers for varying temperatures, raincoat or umbrella, baseball cap, Mets/Yankees gear (if desired), dress clothes for upscale dining.
+*   **Essentials:** Sunscreen, insect repellent, reusable water bottle, portable charger, camera, travel-sized toiletries.
+*   **Documents:** Flight/train tickets, hotel reservations, ID/passport, health insurance card.
+*   **Other:** Backpack for daily excursions, snacks, entertainment for travel (books, music).
 
-*   **Clothing:** Comfortable walking shoes, layers (t-shirts, sweaters, light jacket), rain gear (umbrella, raincoat), baseball cap/hat.
-*   **Essentials:** Sunscreen, insect repellent, reusable water bottle, portable charger, comfortable backpack.
-*   **Other:** Camera, binoculars (for baseball games and park views), travel-sized toiletries.
+## Budget Breakdown
 
-## Budget Breakdown (Estimates):
+*   **Accommodation (5 nights):** \$750 - \$1500 (depending on the hotel)
+*   **Activities & Entrance Fees:** \$200 - \$400
+*   **Food & Drinks:** \$750 - \$1000
+*   **Transportation:** \$100 - \$200 (Subway, taxis)
+*   **Souvenirs & Miscellaneous:** \$100 - \$200
+*   **Total Estimated Budget:** \$1900 - \$3300
 
-*   **Accommodation (5 nights):** $1000 - $2500 (depending on the hotel)
-*   **Food:** $300 - $500
-*   **Activities:** $150 - $300
-*   **Transportation:** $50 - $100 (subway, taxis)
-*   **Souvenirs/Shopping:** Variable
-*   **Total Estimated Budget:** $1500 - $3400+ (excluding flights)
-
-**Note:** This is an estimated budget and can vary depending on your spending habits and choices. Prices for baseball tickets can fluctuate greatly.
-
-Enjoy your trip to New York City!
-```
+Enjoy your trip to New York City! This itinerary is a guideline and can be adjusted based on your preferences and budget.

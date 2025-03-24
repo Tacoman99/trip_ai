@@ -2,7 +2,7 @@
 
 This repository demonstrates how to build personalized travel plans using the CrewAI framework, utilizing AI agents that collaboratively generate tailored and efficient travel itineraries, with Chainlit managing the frontend interface. It specifically showcases the implementation of CrewAI Flows, illustrating how structured, event driven workflows enable the seamless chaining of multiple Crews and tasks. Through effective state management and flexible control flow, including conditional logic and branching, this project exemplifies creating sophisticated, dynamic AI workflows for personalized travel planning.
 
-https://www.youtube.com/watch?v=Q7yvvq-9ytE
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aLArz1wMPJw/0.jpg)](https://www.youtube.com/watch?v=aLArz1wMPJw)
 
 ## Requirements
 
