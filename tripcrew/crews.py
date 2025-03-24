@@ -85,6 +85,7 @@ class ResearchCrew:
             agent=google_search_agent,
             config=self.tasks_config["reviews_task"],
             output_pydantic=City_guide,
+            output_file="guide.json",
         )
         # plan_task = Task(
         #     agent=itinerary_agent,
@@ -139,7 +140,7 @@ class PlanCrew:
         itinerary_task = Task(
             agent=itinerary_agent,
             config=self.tasks_config["plan_task"],
-            output_file="itinerary.md",
+            output_file="docs/itinerary.md",
         )
 
         crew = Crew(

@@ -84,7 +84,7 @@ class TripFlow(Flow[TripState]):
 
         )
 
-        fig.write_image("fig1.pdf")
+        fig.write_image("docs/fig1.pdf")
 
     
     @listen(research_crew_start)
@@ -103,12 +103,12 @@ class TripFlow(Flow[TripState]):
         pdf = MarkdownPdf(toc_level=1)
         pdf.add_section(Section(plan_crew_result.raw))
         #pdf.add_section(Section(map_creator_result.raw))
-        pdf.save("Itinerary.pdf")
+        pdf.save("docs/Itinerary.pdf")
         
         merger = PdfWriter()
-        merger.append("Itinerary.pdf")
-        merger.append("fig1.pdf")
-        merger.write("trip_plan.pdf")
+        merger.append("docs/Itinerary.pdf")
+        merger.append("docs/fig1.pdf")
+        merger.write("docs/trip_plan.pdf")
         merger.close()
 
 
